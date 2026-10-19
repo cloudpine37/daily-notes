@@ -5,6 +5,7 @@
 
 | 日期 | 类型 | 标题 | 链接 |
 | --- | --- | --- | --- |
+| 2026-10-19 | repo | expressjs/express | [repos/2026/2026-10-19-expressjs-express.md](repos/2026/2026-10-19-expressjs-express.md) |
 | 2026-10-18 | essay | 读代码这件事，到底在读什么 | [essays/2026/2026-10-18.md](essays/2026/2026-10-18.md) |
 | 2026-10-17 | essay | 少写一点，快一点，确定一点 | [essays/2026/2026-10-17.md](essays/2026/2026-10-17.md) |
 | 2026-10-16 | repo | tailwindlabs/tailwindcss | [repos/2026/2026-10-16-tailwindlabs-tailwindcss.md](repos/2026/2026-10-16-tailwindlabs-tailwindcss.md) |
