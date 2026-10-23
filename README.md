@@ -5,6 +5,7 @@
 
 | 日期 | 类型 | 标题 | 链接 |
 | --- | --- | --- | --- |
+| 2026-10-23 | security | 两颗 9.2 分：PHP2Shell 与 Node2Shell（含本机复现） | [security/2026/2026-10-23-php2shell-node2shell.md](security/2026/2026-10-23-php2shell-node2shell.md) |
 | 2026-10-22 | repo | BurntSushi/ripgrep | [repos/2026/2026-10-22-BurntSushi-ripgrep.md](repos/2026/2026-10-22-BurntSushi-ripgrep.md) |
 | 2026-10-19 | repo | expressjs/express | [repos/2026/2026-10-19-expressjs-express.md](repos/2026/2026-10-19-expressjs-express.md) |
 | 2026-10-18 | essay | 读代码这件事，到底在读什么 | [essays/2026/2026-10-18.md](essays/2026/2026-10-18.md) |
