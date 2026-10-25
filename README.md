@@ -5,6 +5,7 @@
 
 | 日期 | 类型 | 标题 | 链接 |
 | --- | --- | --- | --- |
+| 2026-10-25 | essay | 每天读一个仓库，是为了慢下来 | [链接](./essays/2026/2026-10-25.md) |
 | 2026-10-24 | essay | 版本号之外 | [essays/2026/2026-10-24.md](essays/2026/2026-10-24.md) |
 
 | 2026-10-23 | security | 两颗 9.2 分：PHP2Shell 与 Node2Shell（含本机复现） | [security/2026/2026-10-23-php2shell-node2shell.md](security/2026/2026-10-23-php2shell-node2shell.md) |
