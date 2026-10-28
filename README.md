@@ -5,6 +5,7 @@
 
 | 日期 | 类型 | 标题 | 链接 |
 | --- | --- | --- | --- |
+| 2026-10-28 | repo | microsoft/terminal | [repos/2026/2026-10-28-microsoft-terminal.md](repos/2026/2026-10-28-microsoft-terminal.md) |
 | 2026-10-26 | repo | microsoft/playwright | [repos/2026/2026-10-26-microsoft-playwright.md](repos/2026/2026-10-26-microsoft-playwright.md) |
 | 2026-10-25 | essay | 每天读一个仓库，是为了慢下来 | [链接](./essays/2026/2026-10-25.md) |
 | 2026-10-24 | essay | 版本号之外 | [essays/2026/2026-10-24.md](essays/2026/2026-10-24.md) |
