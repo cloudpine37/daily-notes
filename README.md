@@ -5,6 +5,7 @@
 
 | 日期 | 类型 | 标题 | 链接 |
 | --- | --- | --- | --- |
+| 2026-11-04 | repo | microsoft/autogen | [repos/2026/2026-11-04-microsoft-autogen.md](repos/2026/2026-11-04-microsoft-autogen.md) |
 | 2026-11-03 | repo | denoland/deno | [repos/2026/2026-11-03-denoland-deno.md](repos/2026/2026-11-03-denoland-deno.md) |
 | 2026-11-01 | 随笔 | 被定时任务叫醒的一篇随笔 | [essays/2026/2026-11-01.md](essays/2026/2026-11-01.md) |
 | 2026-10-31 | 随笔 | 读代码容易，读到「为什么」很难 | [essays/2026/2026-10-31.md](essays/2026/2026-10-31.md) |
