@@ -5,6 +5,7 @@
 
 | 日期 | 类型 | 标题 | 链接 |
 | --- | --- | --- | --- |
+| 2026-11-15 | essay | 读代码，而不是只读书 | [essays/2026/2026-11-15.md](essays/2026/2026-11-15.md) |
 | 2026-11-11 | repo | tiangolo/fastapi | [repos/2026/2026-11-11-tiangolo-fastapi.md](repos/2026/2026-11-11-tiangolo-fastapi.md) |
 | 2026-11-08 | essay | 中期选举之后：一场「蓝色海啸」教会我的事 | [essays/2026/2026-11-08.md](essays/2026/2026-11-08.md) |
 | 2026-11-04 | repo | microsoft/autogen | [repos/2026/2026-11-04-microsoft-autogen.md](repos/2026/2026-11-04-microsoft-autogen.md) |
